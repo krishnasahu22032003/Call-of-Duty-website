@@ -1,0 +1,43 @@
+{
+  "hash": "3ee29b43",
+  "configHash": "2f5c2f14",
+  "lockfileHash": "067e4260",
+  "browserHash": "c385420c",
+  "optimized": {
+    "@gsap/react": {
+      "src": "../../node_modules/@gsap/react/src/index.js",
+      "file": "@gsap_react.js",
+      "fileHash": "648ed97a",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "ad713baa",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8c39bea4",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "aa47d9dc",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-62JSFNXT": {
+      "file": "chunk-62JSFNXT.js"
+    },
+    "chunk-KS2M7ZJI": {
+      "file": "chunk-KS2M7ZJI.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
