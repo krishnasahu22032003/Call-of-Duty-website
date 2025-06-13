@@ -129,7 +129,7 @@ gsap.to(".soldier", {
             </mask>
           </defs>
           <image
-            href="./src/assets/bg.png"
+            href="./assets/bg.png"
             width="100%"
             height="100%"
             preserveAspectRatio="xMidYMid slice"
@@ -157,7 +157,7 @@ gsap.to(".soldier", {
          <div className="imagesdiv overflow-hidden relative w-full h-screen">
   <img
     className="w-full bg scale-[1.7] rotate-[3deg] h-screen object-cover"
-    src="./src/assets/bg.png"
+    src="/assets/bg.png"
     alt=""
   />
 
@@ -172,7 +172,7 @@ gsap.to(".soldier", {
   </div>
 <img
   className="soldier absolute left-1/2 -translate-x-1/2 h-120 w-75 md:h-120 md:w-90"
-  src="./src/assets/soldierimgnew.png"
+  src="/assets/soldierimgnew.png"
   alt=""
 />
 </div>
@@ -188,7 +188,7 @@ gsap.to(".soldier", {
               </div>
               <img
                 className="absolute h-[40px] md:h-[50px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-                src="./src/assets/ps5.png"
+                src="/assets/ps5.png"
                 alt=""
               />
             </div>
@@ -200,7 +200,7 @@ gsap.to(".soldier", {
             <div className="leftimg relative h-[300px] md:h-full w-full md:w-1/2 flex justify-center items-center">
               <img
                 className="h-full md:h-100 w-64 md:w-80 object-contain md:absolute md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:scale-[1.2]"
-                src="./src/assets/soldier1.png"
+                src="/assets/soldier1.png"
                 alt=""
               />
             </div>
@@ -244,7 +244,7 @@ Learn More
             <div className="leftimg relative w-full md:w-1/2 h-[300px] md:h-full flex items-center justify-center">
               <img
                 className="h-full md:h-[90%] w-64 md:w-80 object-contain md:absolute md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:scale-[1.3]"
-                src="./src/assets/soldier2.png"
+                src="/assets/soldier2.png"
                 alt="Soldier 2"
               />
             </div>
@@ -264,19 +264,19 @@ Learn More
             <a href="#" className="hover:underline">Cookies</a>
           </div>
           <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-6 justify-items-center mt-10">
-            <img src="./src/assets/activision-logo.png" alt="Activision" className="h-6" />
-            <img src="./src/assets/treyarch-logo.png" alt="Treyarch" className="h-6" />
-            <img src="./src/assets/shg-logo.png" alt="Sledgehammer" className="h-6" />
-            <img src="./src/assets/raven-logo.png" alt="Raven" className="h-6" />
-            <img src="./src/assets/beenox-logo.png" alt="Beenox" className="h-6" />
-            <img src="./src/assets/high-moon-logo.png" alt="High Moon" className="h-6" />
+            <img src="/assets/activision-logo.png" alt="Activision" className="h-6" />
+            <img src="/assets/treyarch-logo.png" alt="Treyarch" className="h-6" />
+            <img src="/assets/shg-logo.png" alt="Sledgehammer" className="h-6" />
+            <img src="/assets/raven-logo.png" alt="Raven" className="h-6" />
+            <img src="/assets/beenox-logo.png" alt="Beenox" className="h-6" />
+            <img src="/assets/high-moon-logo.png" alt="High Moon" className="h-6" />
           </div>
 
 
           <div className="flex flex-col items-center mt-12">
             <div className="flex flex-wrap justify-center gap-6">
-              <img src="./src/assets/esrb-privacy.jpg" alt="ESRB Rating" className="h-20" />
-              <img src="./src//assets/cod-hub-esrb-en.png" alt="ESRB Privacy Certified" className="h-20" />
+              <img src="/assets/esrb-privacy.jpg" alt="ESRB Rating" className="h-20" />
+              <img src="/assets/cod-hub-esrb-en.png" alt="ESRB Privacy Certified" className="h-20" />
             </div>
             <p className="text-xs text-gray-400 mt-6 text-center max-w-4xl">
               © 2025 Activision Publishing, Inc. Call of Duty, Black Ops, Warzone, Modern Warfare and all associated logos are trademarks of Activision.
