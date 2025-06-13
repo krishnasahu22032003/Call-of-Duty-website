@@ -10,9 +10,7 @@ A highly animated, fully responsive landing page inspired by the **Call of Duty:
 
 ---
 
-## 📸 Preview
 
-![COD Website Screenshot](./assets/screenshot.png) <!-- Add a real screenshot path if available -->
 
 ---
 
@@ -27,23 +25,6 @@ A highly animated, fully responsive landing page inspired by the **Call of Duty:
 
 ---
 
-## 📂 Folder Structure
-
-.
-├── public/
-│ ├── assets/
-│ │ ├── bg.png
-│ │ ├── soldierimgnew.png
-│ │ ├── soldier1.png
-│ │ ├── soldier2.png
-│ │ ├── ps5.png
-│ │ ├── activision-logo.png
-│ │ ├── ...
-├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-├── README.md
-└── index.html
 
 
 ---
@@ -74,25 +55,10 @@ npm install
 npm run dev
 
 Then open http://localhost:5173 in your browser.
-🌐 Deployment
-You can deploy this using:
 
-Vercel
 
-Netlify
 
-GitHub Pages (via Vite plugin)
 
-Firebase Hosting
-
-💡 Future Improvements
-Add audio or background music
-
-Integrate smooth page transitions
-
-Add a contact or pre-order form
-
-Add real video background intro
 
 📃 License
 This is a fan project and not affiliated with Activision or Call of Duty. Use for learning or portfolio purposes only.
@@ -109,6 +75,4 @@ Made with 🔥 by Krishna Sahu
 LinkedIn | GitHub
 
 
----
 
-Let me know if you want me to auto-generate the file or include custom deployment instructions (e.g., for Vercel).
