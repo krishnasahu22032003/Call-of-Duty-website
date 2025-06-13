@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @font-face {
   font-family: "pricedown";
-  src: url("./assets/pricedown.otf") format('opentype') ;
+  src: url("/assets/pricedown.otf") format('opentype') ;
 }
 
 html,
